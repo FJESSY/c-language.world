@@ -1,6 +1,6 @@
 # c-language.world
 new demo gitub repo
-#include <studio.h>//Header file
+#include<studio.h>//Header file
 #include<conic.h>
 void main()/*main is the starting of every c program*/
 {
